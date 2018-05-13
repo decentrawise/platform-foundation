@@ -1,0 +1,20 @@
+{
+  "name": "waveform-drawer",
+  "version": "1.0.0",
+  "description": "Waveform Drawer library",
+  "main": "waveform-drawer.min.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prcolaco/waveform-drawer.git"
+  },
+  "author": "Pedro Reis Colaço",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prcolaco/waveform-drawer/issues"
+  },
+  "homepage": "https://github.com/prcolaco/waveform-drawer",
+  "dependencies": {
+    "lodash": "^4.17.5",
+    "tools": "file:../tools"
+  }
+}

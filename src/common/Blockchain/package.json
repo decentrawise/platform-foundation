@@ -1,0 +1,6 @@
+{
+  "name": "Blockchain",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Blockchain.js"
+}

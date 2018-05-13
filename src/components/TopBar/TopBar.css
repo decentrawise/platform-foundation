@@ -1,0 +1,36 @@
+.navbar {
+  z-index: 100;
+}
+
+#topbar-logo {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  cursor: pointer;
+}
+
+* {
+  outline: 0 !important;
+}
+
+/* For showing menus on hover. Don't work in mobile...
+.dropdown.disabled:hover .dropdown-menu {
+  display: block;
+}
+
+.dropdown.disabled:hover>a {
+  color: #fff !important;
+}
+
+.dropdown.disabled>a {
+  color: #9d9d9d !important;
+}
+*/
+
+/* toastify */
+.toastify {
+  opacity: 0.8;
+}
+
+/*.toastify-content--info {
+  background: #2e6da4 !important;
+}*/

@@ -1,0 +1,6 @@
+{
+  "name": "MetaMask",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./MetaMask.js"
+}

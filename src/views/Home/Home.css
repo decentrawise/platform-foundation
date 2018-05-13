@@ -1,0 +1,29 @@
+.Home {
+}
+
+video#bgvideo {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -100;
+  -ms-transform: translateX(-50%) translateY(-50%);
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+  background-color: #000;
+  background-size: cover;
+}
+
+img#bgvideo-mute {
+  position: absolute;
+  right: 20px;
+  top: 60px;
+}
+
+img#bgvideo-mute.muted {
+  opacity: 0.4;
+}

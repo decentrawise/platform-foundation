@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+button.btn.btn-primary {
+  background-image: linear-gradient(to bottom, #555 0%, #222 100%);
+  background-color: #222;
+}
+button.btn.btn-primary:hover {
+  background-image: none;
+  background-color: #222;
+}
+
+input.form-control:focus, button.btn:focus, .uneditable-input:focus {
+  outline: 0 none !important;
+  box-shadow: none;
+  border: 1px solid #888;
+}
+
+div.alert.alert-info {
+  /*background-image: linear-gradient(to bottom, #ededed 0%, #dedede 100%);*/
+  background-image: linear-gradient(to bottom, #fafafa 0%, #efefef 100%);
+  background-repeat: repeat-x;
+  border: 1px solid #ccc;
+  color: #555;
+}
+
+span.panel-header {
+  font-size: 1.1em;
+  font-weight: bold;
+}
+
+a.panel-header-link span, a.panel-header-link:hover span {
+  color: #88c;
+}
+
+span.help-block {
+  font-size: 0.7em;
+  color: #888;
+  text-align: center;
+}

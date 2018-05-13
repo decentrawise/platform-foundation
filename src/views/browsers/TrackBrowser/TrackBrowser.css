@@ -1,0 +1,64 @@
+.TrackBrowser {
+}
+
+.category-top {
+  text-align: center;
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+.category-top .category-tag {
+  font-size: 1.5rem;
+  color: #fff;
+  background-color: #20a8d8;
+  border-radius: 5px;
+  padding: 4px 6px;
+  margin-left: 10px;
+}
+
+.feed-load-more {
+  width: 100%;
+  margin-bottom: 100px;
+  display: flex;
+  justify-content: center;
+}
+
+.feed-load-more .page-load-mini {
+  width: 40px;
+  height: 40px;
+  opacity: 0.8;
+}
+
+.empty-feed {
+  width: 100%;
+  margin-bottom: 100px;
+  text-align: center;
+  color: grey;
+}
+
+.empty-feed .spread {
+  color: #337ab7;
+  font-size: 2em;
+}
+
+.empty-feed .ask {
+}
+
+.empty-feed .footer-quote {
+  font-style: italic;
+}
+
+.empty-feed i.heart {
+  color: #e74c3c;
+}
+
+.feed-footer {
+  width: 100%;
+  margin-bottom: 100px;
+  text-align: center;
+  color: grey;
+}
+
+.feed-footer i.heart {
+  color: #e74c3c;
+}

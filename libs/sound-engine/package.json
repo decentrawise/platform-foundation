@@ -1,0 +1,19 @@
+{
+  "name": "sound-engine",
+  "version": "1.0.0",
+  "description": "Sound Engine library",
+  "main": "sound-engine.min.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prcolaco/sound-engine.git"
+  },
+  "author": "Pedro Reis Colaço",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prcolaco/sound-engine/issues"
+  },
+  "homepage": "https://github.com/prcolaco/sound-engine",
+  "dependencies": {
+    "tools": "file:../tools"
+  }
+}
